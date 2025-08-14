@@ -1,0 +1,13 @@
+{
+  "name": "deepseek-chat-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal DeepSeek chat web app with Vercel serverless API proxy (SSE streaming).",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
